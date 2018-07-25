@@ -1,0 +1,11 @@
+g:\FreelanceProject\MinorTools\CanhBaoPushSignal\bin\Debug\netcoreapp2.0\CanhBaoPushSignal.deps.json
+g:\FreelanceProject\MinorTools\CanhBaoPushSignal\bin\Debug\netcoreapp2.0\CanhBaoPushSignal.runtimeconfig.json
+g:\FreelanceProject\MinorTools\CanhBaoPushSignal\bin\Debug\netcoreapp2.0\CanhBaoPushSignal.runtimeconfig.dev.json
+g:\FreelanceProject\MinorTools\CanhBaoPushSignal\bin\Debug\netcoreapp2.0\CanhBaoPushSignal.dll
+g:\FreelanceProject\MinorTools\CanhBaoPushSignal\bin\Debug\netcoreapp2.0\CanhBaoPushSignal.pdb
+g:\FreelanceProject\MinorTools\CanhBaoPushSignal\obj\Debug\netcoreapp2.0\CanhBaoPushSignal.csprojResolveAssemblyReference.cache
+g:\FreelanceProject\MinorTools\CanhBaoPushSignal\obj\Debug\netcoreapp2.0\CanhBaoPushSignal.csproj.CoreCompileInputs.cache
+g:\FreelanceProject\MinorTools\CanhBaoPushSignal\obj\Debug\netcoreapp2.0\CanhBaoPushSignal.AssemblyInfoInputs.cache
+g:\FreelanceProject\MinorTools\CanhBaoPushSignal\obj\Debug\netcoreapp2.0\CanhBaoPushSignal.AssemblyInfo.cs
+g:\FreelanceProject\MinorTools\CanhBaoPushSignal\obj\Debug\netcoreapp2.0\CanhBaoPushSignal.dll
+g:\FreelanceProject\MinorTools\CanhBaoPushSignal\obj\Debug\netcoreapp2.0\CanhBaoPushSignal.pdb

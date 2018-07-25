@@ -1,0 +1,17 @@
+Com.OneSignal.Abstractions
+Com.OneSignal
+OneSignal.Android.Binding
+System.Runtime
+Xamarin.Android.Support.Annotations
+Xamarin.Android.Support.Compat
+Xamarin.Android.Support.Core.UI
+Xamarin.Android.Support.Core.Utils
+Xamarin.Android.Support.CustomTabs
+Xamarin.Android.Support.Fragment
+Xamarin.Android.Support.Media.Compat
+Xamarin.Android.Support.v4
+Xamarin.GooglePlayServices.Basement
+Xamarin.GooglePlayServices.Tasks
+Xamarin.GooglePlayServices.Base
+Xamarin.GooglePlayServices.Iid
+Xamarin.GooglePlayServices.Gcm

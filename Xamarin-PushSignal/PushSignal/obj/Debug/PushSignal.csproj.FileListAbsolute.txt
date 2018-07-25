@@ -1,0 +1,67 @@
+C:\Users\xatm\Documents\Visual Studio 2015\Projects\PushSignal\PushSignal\bin\Debug\PushSignal.dll
+C:\Users\xatm\Documents\Visual Studio 2015\Projects\PushSignal\PushSignal\bin\Debug\PushSignal.pdb
+C:\Users\xatm\Documents\Visual Studio 2015\Projects\PushSignal\PushSignal\bin\Debug\PushSignal.PushSignal.apk
+C:\Users\xatm\Documents\Visual Studio 2015\Projects\PushSignal\PushSignal\bin\Debug\PushSignal.PushSignal-Signed.apk
+C:\Users\xatm\Documents\Visual Studio 2015\Projects\PushSignal\PushSignal\bin\Debug\Com.OneSignal.Abstractions.dll
+C:\Users\xatm\Documents\Visual Studio 2015\Projects\PushSignal\PushSignal\bin\Debug\Com.OneSignal.dll
+C:\Users\xatm\Documents\Visual Studio 2015\Projects\PushSignal\PushSignal\bin\Debug\OneSignal.Android.Binding.dll
+C:\Users\xatm\Documents\Visual Studio 2015\Projects\PushSignal\PushSignal\bin\Debug\Xamarin.Android.Support.Annotations.dll
+C:\Users\xatm\Documents\Visual Studio 2015\Projects\PushSignal\PushSignal\bin\Debug\Xamarin.Android.Support.Compat.dll
+C:\Users\xatm\Documents\Visual Studio 2015\Projects\PushSignal\PushSignal\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+C:\Users\xatm\Documents\Visual Studio 2015\Projects\PushSignal\PushSignal\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\xatm\Documents\Visual Studio 2015\Projects\PushSignal\PushSignal\bin\Debug\Xamarin.Android.Support.CustomTabs.dll
+C:\Users\xatm\Documents\Visual Studio 2015\Projects\PushSignal\PushSignal\bin\Debug\Xamarin.Android.Support.Fragment.dll
+C:\Users\xatm\Documents\Visual Studio 2015\Projects\PushSignal\PushSignal\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\xatm\Documents\Visual Studio 2015\Projects\PushSignal\PushSignal\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\xatm\Documents\Visual Studio 2015\Projects\PushSignal\PushSignal\bin\Debug\Xamarin.GooglePlayServices.Base.dll
+C:\Users\xatm\Documents\Visual Studio 2015\Projects\PushSignal\PushSignal\bin\Debug\Xamarin.GooglePlayServices.Basement.dll
+C:\Users\xatm\Documents\Visual Studio 2015\Projects\PushSignal\PushSignal\bin\Debug\Xamarin.GooglePlayServices.Gcm.dll
+C:\Users\xatm\Documents\Visual Studio 2015\Projects\PushSignal\PushSignal\bin\Debug\Xamarin.GooglePlayServices.Iid.dll
+C:\Users\xatm\Documents\Visual Studio 2015\Projects\PushSignal\PushSignal\bin\Debug\Xamarin.GooglePlayServices.Tasks.dll
+C:\Users\xatm\Documents\Visual Studio 2015\Projects\PushSignal\PushSignal\bin\Debug\Com.OneSignal.pdb
+C:\Users\xatm\Documents\Visual Studio 2015\Projects\PushSignal\PushSignal\bin\Debug\Com.OneSignal.Abstractions.pdb
+C:\Users\xatm\Documents\Visual Studio 2015\Projects\PushSignal\PushSignal\bin\Debug\OneSignal.Android.Binding.pdb
+C:\Users\xatm\Documents\Visual Studio 2015\Projects\PushSignal\PushSignal\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Basement.dll
+C:\Users\xatm\Documents\Visual Studio 2015\Projects\PushSignal\PushSignal\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Tasks.dll
+C:\Users\xatm\Documents\Visual Studio 2015\Projects\PushSignal\PushSignal\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Base.dll
+C:\Users\xatm\Documents\Visual Studio 2015\Projects\PushSignal\PushSignal\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Iid.dll
+C:\Users\xatm\Documents\Visual Studio 2015\Projects\PushSignal\PushSignal\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Gcm.dll
+C:\Users\xatm\Documents\Visual Studio 2015\Projects\PushSignal\PushSignal\obj\Debug\PushSignal.dll
+C:\Users\xatm\Documents\Visual Studio 2015\Projects\PushSignal\PushSignal\obj\Debug\PushSignal.pdb
+C:\Users\xatm\Documents\Visual Studio 2015\Projects\PushSignal\PushSignal\obj\Debug\android\bin\PushSignal.PushSignal.apk
+C:\Users\xatm\Documents\Visual Studio 2015\Projects\PushSignal\PushSignal\obj\Debug\res\layout\main.xml
+C:\Users\xatm\Documents\Visual Studio 2015\Projects\PushSignal\PushSignal\obj\Debug\res\values\strings.xml
+C:\Users\xatm\Documents\Visual Studio 2015\Projects\PushSignal\PushSignal\obj\Debug\res\mipmap-hdpi\icon.png
+C:\Users\xatm\Documents\Visual Studio 2015\Projects\PushSignal\PushSignal\obj\Debug\res\mipmap-mdpi\icon.png
+C:\Users\xatm\Documents\Visual Studio 2015\Projects\PushSignal\PushSignal\obj\Debug\res\mipmap-xhdpi\icon.png
+C:\Users\xatm\Documents\Visual Studio 2015\Projects\PushSignal\PushSignal\obj\Debug\res\mipmap-xxhdpi\icon.png
+C:\Users\xatm\Documents\Visual Studio 2015\Projects\PushSignal\PushSignal\obj\Debug\res\mipmap-xxxhdpi\icon.png
+C:\Users\xatm\Documents\Visual Studio 2015\Projects\PushSignal\PushSignal\obj\Debug\R.cs.flag
+C:\Users\xatm\Documents\Visual Studio 2015\Projects\PushSignal\PushSignal\obj\Debug\uploadflags.txt
+C:\Users\xatm\Documents\Visual Studio 2015\Projects\PushSignal\PushSignal\bin\Debug\PushSignal.dll.mdb
+C:\Users\xatm\Documents\Visual Studio 2015\Projects\PushSignal\PushSignal\obj\Debug\android\assets\PushSignal.dll.mdb
+C:\Users\xatm\Documents\Visual Studio 2015\Projects\PushSignal\PushSignal\bin\Debug\PushSignal.dll
+bin\Debug\Mono.Android.pdb
+bin\Debug\mscorlib.pdb
+bin\Debug\System.Core.pdb
+bin\Debug\System.pdb
+bin\Debug\System.Xml.pdb
+bin\Debug\System.Net.Http.pdb
+bin\Debug\System.Runtime.Serialization.pdb
+bin\Debug\System.ServiceModel.Internals.pdb
+bin\Debug\Mono.Security.pdb
+bin\Debug\System.ComponentModel.Composition.pdb
+obj\Debug\linksrc\PushSignal.dll.mdb
+obj\Debug\linksrc\Com.OneSignal.Abstractions.pdb
+obj\Debug\linksrc\Com.OneSignal.pdb
+obj\Debug\linksrc\Mono.Android.pdb
+obj\Debug\linksrc\mscorlib.pdb
+obj\Debug\linksrc\OneSignal.Android.Binding.pdb
+obj\Debug\linksrc\System.Core.pdb
+obj\Debug\linksrc\System.pdb
+obj\Debug\linksrc\System.Xml.pdb
+obj\Debug\linksrc\System.Net.Http.pdb
+obj\Debug\linksrc\System.Runtime.Serialization.pdb
+obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+obj\Debug\linksrc\Mono.Security.pdb
+obj\Debug\linksrc\System.ComponentModel.Composition.pdb
